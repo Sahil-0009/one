@@ -5,3 +5,4 @@ add something new
 stash message.
  anther fix message for pink mode
 
+another fix message for purple mode
