@@ -3,4 +3,5 @@ Bug fix files
 add something new
 
 stash message.
+ anther fix message for pink mode
 
